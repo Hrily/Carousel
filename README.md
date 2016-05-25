@@ -10,5 +10,5 @@ Tested on:
   - Opera
 + Android
   - Mozilla Firefox
-  - UC Browser
+  - UC Browser (Not working, doesn't support translate())
   - Chrome
